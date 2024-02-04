@@ -13,7 +13,7 @@ import io
 
 logger.add('logger.log' , format ="{time} {level} :  {message}" , level = "INFO" )
 
-API_TOKEN = '6176577044:AAE8FtYicbvS7zqSsStHWtSbKLQFFcwQz0Y'
+API_TOKEN = '###'
 
 logging.basicConfig(level=logging.INFO)
 
